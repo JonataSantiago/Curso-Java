@@ -1,12 +1,22 @@
 package Pessoa;
 
 public class Cliente {
-	
+
 	private string nome;
-	
+
 	private string sobrenome;
-	
+
 	private int idade;
+
+	private date dataNascimento;
+
+	public date getDataNascimento() {
+		return dataNascimento;
+	}
+
+	public void setDataNascimento(date dataNascimento) {
+		this.dataNascimento = dataNascimento;
+	}
 
 	public int getIdade() {
 		return idade;
@@ -31,6 +41,5 @@ public class Cliente {
 	public void setSobrenome(string sobrenome) {
 		this.sobrenome = sobrenome;
 	}
-	
 
 }
