@@ -1,2 +1,1 @@
-# Curso-Java
-Java Web Full Stack / Jdev Treinamentos - Prof. Alex Fernando 
+## Repositório criado para estudos e pequenos projetos usando o ecossistema Java!
