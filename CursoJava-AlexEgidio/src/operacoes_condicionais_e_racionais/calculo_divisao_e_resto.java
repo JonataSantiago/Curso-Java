@@ -2,7 +2,7 @@ package operacoes_condicionais_e_racionais;
 
 import javax.swing.JOptionPane;
 
-public class entradaSaida_JOptionPane {
+public class calculo_divisao_e_resto {
 
 	public static void main(String[] args) {
 	
