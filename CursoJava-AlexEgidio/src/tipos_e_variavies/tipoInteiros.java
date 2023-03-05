@@ -1,4 +1,4 @@
-package aula_tipos_e_variavies;
+package tipos_e_variavies;
 
 import java.util.Locale;
 
